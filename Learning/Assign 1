@@ -1,0 +1,8 @@
+s='azcbobobegghakl'
+c=len(s);
+i=0
+while(c>1):
+	k=s[0]
+	for x in range(0,c-1):
+		for y in k+1
+

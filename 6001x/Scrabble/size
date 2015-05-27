@@ -1,0 +1,4 @@
+for y in handy:
+		if x==y:
+			if handy[y]==0:
+				q=5

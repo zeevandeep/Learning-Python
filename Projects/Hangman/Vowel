@@ -1,0 +1,7 @@
+s='Jeevandeep'
+k=len(s);
+j=0;
+for x in s:
+	if(x == 'a' or 'e' or 'i' or 'o' or 'u'):
+		j+=1;
+print('Number of vowels: %d' %j)
